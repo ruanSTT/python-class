@@ -16,17 +16,6 @@ This course is designed for developers with a basic knowledge of Python who want
 
 ---
 
-## 🧱 Course Structure
-
-The course is divided into 10 lessons of 2 hours each. This repository includes:
-
-- 📂 `content/` – Explanatory texts and examples
-- 📂 `exercises/` – Hands-on practice for each topic
-- 📂 `solutions/` – Full solutions with comments
-- 📂 `resources/` – External references and documentation
-
----
-
 ## 📚 Topics Covered
 
 ### 1. Classes in Python
